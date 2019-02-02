@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"github.com/gwuhaolin/livego/utils/uid"
-	"github.com/gwuhaolin/livego/protocol/amf"
-	"github.com/gwuhaolin/livego/av"
-	"github.com/gwuhaolin/livego/utils/pio"
+	"livego/utils/uid"
+	"livego/protocol/amf"
+	"livego/av"
+	"livego/utils/pio"
 )
 
 const (
